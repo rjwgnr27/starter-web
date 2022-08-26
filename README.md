@@ -9,6 +9,8 @@ This is an example to show stuff.
 
 ## Purpose
 
+To provide examples of doing stuff.
+
 ## Deployment
 
 ## How To Contribute
