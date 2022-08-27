@@ -9,8 +9,10 @@ This is an example to show stuff.
 
 ## Purpose
 
-To provide examples of doing stuff.
+To provide examples of doing stuff with Git and Gihub.
 
 ## Deployment
+
+This is a simple web project.
 
 ## How To Contribute
